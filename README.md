@@ -99,10 +99,37 @@
 ## 🗂️ Projetos em Destaque
 
 <div align="center">
-
-[![WaiterApp](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-cremm&repo=WaiterApp&theme=tokyonight)](https://github.com/Eduardo-cremm/WaiterApp)
-[![clone-tabnews](https://github-readme-stats.vercel.app/api/pin/?username=Eduardo-cremm&repo=clone-tabnews&theme=tokyonight)](https://github.com/Eduardo-cremm/clone-tabnews)
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🍽️ WaiterApp</h3>
+      <p align="center">
+        <a href="https://github.com/Eduardo-cremm/WaiterApp">
+          <img src="https://img.shields.io/badge/Ver_Repositório-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">App de gerenciamento de pedidos para restaurantes. Back-end com Node.js + Express + TypeScript e front-end em React.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📰 Clone TabNews</h3>
+      <p align="center">
+        <a href="https://github.com/Eduardo-cremm/clone-tabnews">
+          <img src="https://img.shields.io/badge/Ver_Repositório-6366f1?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Recriando o TabNews do zero — plataforma de conteúdo para devs com Next.js e autenticação.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
